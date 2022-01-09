@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "example",
+    "database": "app_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "example",
+    "database": "app_test",
+    "host": "mysql-server",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "example",
+    "database": "app_test",
+    "host": "mysql-server",
+    "dialect": "mysql"
+  }
+}
